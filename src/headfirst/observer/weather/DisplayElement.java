@@ -1,5 +1,5 @@
 package headfirst.observer.weather;
 
-public interface displayElement {
+public interface DisplayElement {
     public void display();
 }
