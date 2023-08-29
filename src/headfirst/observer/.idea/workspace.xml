@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d88d77c9-a582-40fb-b62b-ae6766e93863" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/weather/CurrentConditionsDisplay.java" beforeDir="false" afterPath="$PROJECT_DIR$/weather/CurrentConditionsDisplay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/weather/DisplayElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/weather/DisplayElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/weather/ForecastDisplay.java" beforeDir="false" afterPath="$PROJECT_DIR$/weather/ForecastDisplay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/weather/HeatIndexDisplay.java" beforeDir="false" afterPath="$PROJECT_DIR$/weather/HeatIndexDisplay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/weather/Observer.java" beforeDir="false" afterPath="$PROJECT_DIR$/weather/Observer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/weather/StatisticsDisplay.java" beforeDir="false" afterPath="$PROJECT_DIR$/weather/StatisticsDisplay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/weather/Subject.java" beforeDir="false" afterPath="$PROJECT_DIR$/weather/Subject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/weather/WeatherData.java" beforeDir="false" afterPath="$PROJECT_DIR$/weather/WeatherData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/weather/WeatherStation.java" beforeDir="false" afterPath="$PROJECT_DIR$/weather/WeatherStation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/weather/WeatherStationHeatIndex.java" beforeDir="false" afterPath="$PROJECT_DIR$/weather/WeatherStationHeatIndex.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../strategy/FlyRocketPowered.java" beforeDir="false" afterPath="$PROJECT_DIR$/../strategy/FlyRocketPowered.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../strategy/MallardDuck.java" beforeDir="false" afterPath="$PROJECT_DIR$/../strategy/MallardDuck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../strategy/MiniDuckSimulator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../strategy/MiniDuckSimulator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../strategy/ModelDuck.java" beforeDir="false" afterPath="$PROJECT_DIR$/../strategy/ModelDuck.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2Ud4pDaB2gJRiVQAI7q0wHQ8Prc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/trana/OneDrive/Desktop/Practice_Coding_Folders/HeadFirstDesignPatterns"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d88d77c9-a582-40fb-b62b-ae6766e93863" name="Changes" comment="" />
+      <created>1693256303299</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1693256303299</updated>
+    </task>
+    <servers />
+  </component>
+</project>

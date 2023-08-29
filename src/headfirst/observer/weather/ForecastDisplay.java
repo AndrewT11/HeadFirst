@@ -5,9 +5,9 @@ import java.util.*;
 public class ForecastDisplay implements Observer, DisplayElement {
 	private float currentPressure = 29.92f;  
 	private float lastPressure;
-	private Subject weatherData;
+	private WeatherData weatherData;
 
-	public ForecastDisplay(Subject weatherData) {
+	public ForecastDisplay(WeatherData weatherData) {
 		this.weatherData = weatherData;
 		weatherData.registerObserver(this);
 	}

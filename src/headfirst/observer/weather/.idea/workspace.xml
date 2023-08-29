@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9d5fd2c9-399f-4c99-982d-365b9cfc66d5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/CurrentConditionsDisplay.java" beforeDir="false" afterPath="$PROJECT_DIR$/CurrentConditionsDisplay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DisplayElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/DisplayElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ForecastDisplay.java" beforeDir="false" afterPath="$PROJECT_DIR$/ForecastDisplay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HeatIndexDisplay.java" beforeDir="false" afterPath="$PROJECT_DIR$/HeatIndexDisplay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Observer.java" beforeDir="false" afterPath="$PROJECT_DIR$/Observer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StatisticsDisplay.java" beforeDir="false" afterPath="$PROJECT_DIR$/StatisticsDisplay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Subject.java" beforeDir="false" afterPath="$PROJECT_DIR$/Subject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeatherData.java" beforeDir="false" afterPath="$PROJECT_DIR$/WeatherData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeatherStation.java" beforeDir="false" afterPath="$PROJECT_DIR$/WeatherStation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeatherStationHeatIndex.java" beforeDir="false" afterPath="$PROJECT_DIR$/WeatherStationHeatIndex.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../strategy/FlyRocketPowered.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../strategy/FlyRocketPowered.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../strategy/MallardDuck.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../strategy/MallardDuck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../strategy/MiniDuckSimulator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../strategy/MiniDuckSimulator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../strategy/ModelDuck.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../strategy/ModelDuck.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2Ucsr76pkyxvVE4Q3uBNrxJNTcf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/trana/OneDrive/Desktop/Practice_Coding_Folders/HeadFirstDesignPatterns/src/headfirst/observer"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9d5fd2c9-399f-4c99-982d-365b9cfc66d5" name="Changes" comment="" />
+      <created>1693250398273</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1693250398273</updated>
+    </task>
+    <servers />
+  </component>
+</project>
